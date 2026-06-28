@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <title>便利屋ニーズ</title>
+  <style>
+    body { font-family: sans-serif; line-height: 1.8; padding: 20px; }
+    h1 { color: #333; }
+    .phone { font-size: 1.4em; font-weight: bold; margin: 10px 0; }
+    .section { margin-top: 30px; }
+  </style>
+</head>
+<body>
+
+  <h1>便利屋ニーズ</h1>
+
+  <div class="phone">
+    📞 お問い合わせ：<span>ここに電話番号を入れる</span>
+  </div>
+
+  <div class="section">
+    <h2>サービス内容</h2>
+    <p>
+      不用品回収・草刈り・掃除・修理・買い物代行など、  
+      生活のお困りごとを幅広くサポートします。
+    </p>
+  </div>
+
+  <div class="section">
+    <h2>簡単な見積もりの流れ</h2>
+    <ol>
+      <li>お電話またはメッセージでご依頼内容をお知らせください。</li>
+      <li>作業内容・場所・希望日時を確認します。</li>
+      <li>その場で概算のお見積もりをお伝えします。</li>
+      <li>ご納得いただければ作業日を決定します。</li>
+    </ol>
+  </div>
+
+</body>
+</html>
