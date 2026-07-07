@@ -76,3 +76,30 @@ section{
       border-radius:15px;
       box-shadow:0 2px 8px rgba(0,0,0,.08);
 }
+
+h3,h4{
+      color:#2E8857;
+      font-size:28px;
+      margin-button:15px;
+}
+
+table{
+      width:100%;
+      border-collapse:collapse;
+      margin-bottom:20px;
+}
+
+th{
+      background:#2E8B57;
+      color:white;
+      padding:10px;
+}
+
+td{
+      border:1px solid #ddd;
+      paddin:10px;
+}
+
+tr:nth-child(even){
+      background:#f7f7f7;
+}
