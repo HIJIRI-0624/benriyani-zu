@@ -11,7 +11,7 @@ h1{
 
 .flow-images{
       width:100%;
-      max-width:900px;
+      height:auto;
       display:black;
       margin:30px auto;
 }
