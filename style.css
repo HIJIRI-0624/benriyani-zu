@@ -8,3 +8,10 @@ body{
 h1{
     color:#2E8B57;
 }
+
+.flow-images{
+      widh:100%;
+      max-width:900px;
+      display:black;
+      margin:30px auto;
+}
