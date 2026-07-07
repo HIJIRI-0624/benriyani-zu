@@ -142,3 +142,25 @@ tr:nth-child(even){
     border-radius:8px;
     font-size:17px;
 }
+
+/* スクロール時の電話バー */
+
+#fixedCall{
+    position:fixed;
+    top:-60px;
+    left:0;
+    width:100%;
+    background:#2E8B57;
+    text-align:center;
+    padding:12px 0;
+    transition:0.3s;
+    z-index:9999;
+    box-shadow:0 2px 6px rgba(0,0,0,.2);
+}
+
+#fixedCall a{
+    color:white;
+    text-decoration:none;
+    font-size:18px;
+    font-weight:bold;
+}
