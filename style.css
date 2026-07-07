@@ -10,7 +10,8 @@ h1{
 }
 
 .flow-images{
-      width:50%;
+      width:100%;
+      max-width:600px;
       height:auto;
       display:black;
       margin:20px auto;
