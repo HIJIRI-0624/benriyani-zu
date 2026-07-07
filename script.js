@@ -7,3 +7,15 @@ button.onclick=function(){
     menu.style.display="block";
   }
 };
+
+const fixedCall = document.getElementById("fixedCall");
+
+window.addEventListener("scroll", function () {
+
+    if (window.scrollY > 180) {
+        fixedCall.style.top = "0";
+    } else {
+        fixedCall.style.top = "-60px";
+    }
+
+});
